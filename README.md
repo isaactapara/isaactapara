@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaactapara
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning cyber security 
+- 👀 I’m interested in cyber security and software engineering
+- 🌱 I’m currently learning cyber security and software engineering
 - 💞️ I’m looking to collaborate on Cyber security 
 - 📫 How to reach me isaactapara@gmail.com
 - 😄 Pronouns: ...
